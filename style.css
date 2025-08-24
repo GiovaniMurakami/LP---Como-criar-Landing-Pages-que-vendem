@@ -90,11 +90,14 @@
     font-size: 1.2rem;
     color: #ffc107;
     margin-bottom: 0.5rem;
+    text-align: center;
+
 }
 
 .hero .prova-social .depoimento {
     font-size: 1rem;
     margin: 0.5rem 0;
+    text-align: center;
     color: #222222;
 }
 
@@ -102,6 +105,7 @@
     display: block;
     margin-top: 0.5rem;
     font-style: normal;
+    text-align: center;
     font-weight: bold;
     color: #555555;
 }
